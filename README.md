@@ -23,7 +23,7 @@
 <p>To get started with the Dice Game, follow these simple steps:
   <ul>
     <li>Clone the repository to your local machine:
-        git clone https://github.com/your-username/dice-game.git
+        git clone https://github.com/Encryption-prince/Diceseeeee.git
     </li>
     <li>Open the project folder in your code editor</li>
     <li>Launch the game by opening the <em>index.html</em> file in your web browser.</li>
